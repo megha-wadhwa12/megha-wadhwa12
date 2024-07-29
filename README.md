@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=megha-wadhwa12" alt="megha-wadhwa12" /></a> </p>
 
 - 🔭 I’m currently working on [my Capstone Project](https://github.com/kalviumcommunity/S53_MeghaWadhwa_Capstone_RoamIndia)
+  
+- 👩🏼‍💻 I am proficient in **C++** for **Data Structures & Algorithms**
 
 - 🌱 I’m currently learning **TypeScript**
 
